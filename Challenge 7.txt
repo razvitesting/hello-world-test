@@ -1,0 +1,11 @@
+As a Test Manager I want Behaviour Driven Development for Operational Readiness
+
+Always start with "As a..."
+
+
+As a Product Owner I want Unit Testing and Alpha Beta Testing for eXtreme Programming
+
+
+The idea of this test is to know how to form a user story
+
+It's asked on the interview.
